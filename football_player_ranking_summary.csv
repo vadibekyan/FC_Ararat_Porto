@@ -1,41 +1,44 @@
 ,mean_normalized_score,std_normalized_score,number_of_votes
-Afonso Mota,9.5,0.7,5
-Robert Hovhannisyan,9.5,0.8,6
-Richard,8.1,1.5,6
-Manu Monteiro,8.0,1.7,5
-Ievon Yeghiazaryan,7.8,1.0,5
-Rachid,7.7,1.2,6
-Vardan,7.0,1.4,6
-Francisco David,6.9,1.3,5
-Sergei Belorus,6.6,1.9,6
-Edgar Galstyan,6.6,1.2,5
-David Mamulyan,6.5,1.6,3
-Mikayel Grigoryan,6.4,1.2,5
-Sergio Sousa,5.8,1.4,3
-Yevgeniy,5.7,0.7,5
-Olivier,5.4,1.1,2
-Bachar,5.2,2.4,5
-Adeeb Sidani,5.2,2.1,3
-Khachatur Harutyunyan,5.2,1.3,6
-Telmo,5.1,1.5,5
-Roman,5.1,1.1,6
-Erick Arakelyan,5.0,1.6,4
-Boris Nogachev,4.7,2.2,5
-Pedro Palmerim,4.6,0.0,1
-Nikolay,4.6,0.0,1
-Rafayel Chibukhchyan,4.0,1.0,4
-Artem,4.0,2.6,4
-Sergei Baghdasaryan,4.0,1.9,5
-Harut,3.8,1.4,6
-Andre Yeran,3.7,1.9,5
-Gor,2.9,2.2,4
-Paulo Góis,2.8,0.0,1
+Afonso Mota,9.7,0.6,7
+Robert Hovhannisyan,9.6,0.7,8
+Luis,8.9,1.0,3
+Richard,8.0,1.5,7
+Rachid,7.2,1.4,8
+Ievon Yeghiazaryan,7.1,1.4,7
+Manu Monteiro,6.9,3.2,6
+Vardan,6.8,1.3,8
+Francisco David,6.7,1.2,7
+Edgar Galstyan,6.5,1.1,7
+David Mamulyan,6.2,1.4,4
+Sergei Belorus,6.0,2.2,8
+Sergio Sousa,5.8,1.2,4
+Mikayel Grigoryan,5.5,1.9,7
+Yevgeniy,5.4,0.9,6
+Patrick,5.4,4.0,2
+Adeeb Sidani,5.3,1.7,4
+Khachatur Harutyunyan,5.0,1.2,7
+Bachar,4.8,2.4,6
+Roman,4.8,1.9,8
+Telmo,4.6,1.7,6
+Erick Arakelyan,4.5,1.8,5
+Olivier,4.4,1.8,3
+Sergei Baghdasaryan,4.2,2.1,7
+Boris Nogachev,4.1,2.1,7
+Rafayel Chibukhchyan,3.7,1.1,5
+Artem,3.7,2.3,5
+Pedro Palmerim,3.6,1.5,2
+Nikolay,3.6,1.5,2
+Andre Yeran,3.5,1.8,6
+Harut,3.5,1.6,8
+Vadim,3.2,1.7,6
+Sergey Harutyunyan,3.0,2.5,7
+Gor,2.8,1.9,5
 Vahe Avetyan,2.8,1.9,5
-Narek,2.7,1.5,3
-Vadim,2.7,1.4,5
-Artur Mirzoyan,2.6,1.2,4
-Sergey Harutyunyan,2.6,2.1,5
-Georgiy Piskunov,2.3,1.8,2
-Hayk,1.0,0.0,5
-Evgeniy Nasyrov,0.0,0.0,0
+Narek,2.7,1.2,4
+Artur Mirzoyan,2.6,1.1,5
+Paulo Góis,2.6,0.2,3
+Evgeniy Nasyrov,2.5,0.0,1
+Georgiy Piskunov,2.4,1.3,3
+Khaled,1.8,1.1,2
+Hayk,1.2,0.6,6
 Erick Serra,0.0,0.0,0
